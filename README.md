@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucienlvmi
+- 👋 Hi, I’m @kmack
 - 👀 I’m interested in learning new stuffs!
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on anything that is fun and educational.
